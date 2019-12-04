@@ -1,2 +1,7 @@
 # Finger-count
- A simple finger counting program using open Cv
+ A simple finger counting program using OpenCv
+
+## Libraries
+* OpenCv
+* Numpy
+
